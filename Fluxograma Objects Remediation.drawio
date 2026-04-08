@@ -82,6 +82,9 @@
         <mxCell id="xYuIhIvpsH3Lykskq2rD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ambiente + Usuário + Data e Hora" vertex="1">
           <mxGeometry height="60" width="220" x="30" y="880" as="geometry" />
         </mxCell>
+        <mxCell id="xYuIhIvpsH3Lykskq2rD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Usuário analisa os dados consolidados" vertex="1">
+          <mxGeometry height="60" width="194" x="550" y="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
